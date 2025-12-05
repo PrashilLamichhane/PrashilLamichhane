@@ -18,9 +18,14 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Update npm
+        run: npm install -g npm@latest
+
+      - name: Install Pac-Man Graph Package
+        run: npm install -g github-contribution-pacman
+
       - name: Generate Pac-Man Graph
         run: |
-          npm install -g github-contribution-pacman
           mkdir -p output
           pacman-graph --username PrashilLamichhane --output ./output/pacman-contribution-graph.svg
 
