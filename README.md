@@ -1,62 +1,62 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Prashil Lamichhane</h1>
+<h3 align="center">Electronics and Communication Engineering Student</h3>
 
-###
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=PrashilLamichhane">
+    <img src="https://komarev.com/ghpvc/?username=PrashilLamichhane&label=Profile%20views&color=00FFFF&style=flat-square" alt="PrashilLamichhane's profile views" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberry logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-</div>
+## 📌 About Me
+- 🌱 Learning Advanced PCB Designing
+- 🤝 Open to collaborate on Robotics & Embedded Systems
+- 👨‍💻 All my projects: GitHub Profile
+- 💬 Ask me about Robotics, PCB, Embedded Engineering
+- 📫 Email: prashillamichhane123@gmail.com biggger it is very small and unnoticable
 
-###
 
-<h2 align="center">🤖 Robotics • PCB Design • Embedded Engineering</h2>
+## 🧠 My Focus Areas
+- 👨‍💻 PCB designing
+- 🤖 Robotics
+- 💬 App development
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=4267B2&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=FFCC00&logoColor=white&style=for-the-badge" height="25" />
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashilLamichhane&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="PrashilLamichhane's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=PrashilLamichhane&theme=dracula&hide_border=true&cache_seconds=86400" alt="PrashilLamichhane's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrashilLamichhane&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Prashil Lamichhane's GitHub Trophies" />
+</p>
 
-###
 
-<!-- Info Section -->
-<div align="center" style="font-size: 20px; line-height: 2; margin-top: 20px; margin-bottom: 20px;">
-  <p>🔭 <b style="font-size:22px;">I’m currently working on <a href="https://github.com/PrashilLamichhane/RestroBOT_PCB">RestroBOT</a></b></p>
-  <p>🌱 <b style="font-size:22px;">Learning Advanced PCB Designing</b></p>
-  <p>🤝 <b style="font-size:22px;">Open to collaborate on Robotics & Embedded Systems</b></p>
-  <p>👨‍💻 <b style="font-size:22px;">All my projects: <a href="https://github.com/PrashilLamichhane">GitHub Profile</a></b></p>
-  <p>💬 <b style="font-size:22px;">Ask me about Robotics, PCB, Embedded Engineering</b></p>
-  <p>📫 <b style="font-size:22px;">Email: prashillamichhane123@gmail.com</b></p>
-</div>
+## 🛠️ Languages & Tools
 
-###
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prashillamichhane&locale=en&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prashillamichhane&theme=dracula&margin-w=6&margin-h=6" height="170" alt="trophy graph" />
-</div>
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
 
-###
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashilLamichhane&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/prashil-lamichhane-b6552b264/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@prashillamichhane3730" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:prashillamichhane123@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+## 💬 Quote
+> Just do it!!!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrashilLamichhane/PrashilLamichhane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrashilLamichhane/PrashilLamichhane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrashilLamichhane/PrashilLamichhane/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
