@@ -23,8 +23,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashilLamichhane&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="PrashilLamichhane's GitHub Stats" width="49%" />
+ 
   <img src="https://streak-stats.demolab.com/?user=PrashilLamichhane&theme=dracula&hide_border=true&cache_seconds=86400" alt="PrashilLamichhane's GitHub Streak" width="49%" />
+  
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PrashilLamichhane&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Prashil Lamichhane's GitHub Trophies" />
@@ -33,8 +34,7 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
 
 > ## Database
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
