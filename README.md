@@ -10,17 +10,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌱 Learning Advanced PCB Designing
-- 🤝 Open to collaborate on Robotics & Embedded Systems
-- 👨‍💻 All my projects: GitHub Profile
-- 💬 Ask me about Robotics, PCB, Embedded Engineering
-- 📫 Email: prashillamichhane123@gmail.com biggger it is very small and unnoticable
+-  Learning Advanced PCB Designing
+- Open to collaborate on software projects
+-  Open to collaborate on Robotics & Embedded Systems
+-  All my projects: GitHub Profile
+-  Ask me about Robotics, PCB, Embedded Engineering
+-  Email: prashillamichhane123@gmail.com biggger it is very small and unnoticable
 
 
 ## 🧠 My Focus Areas
-- 👨‍💻 PCB designing
-- 🤖 Robotics
-- 💬 App development
+-  PCB designing
+- Full Stack Development 
+-  Robotics
+
 
 
 ## 📊 GitHub Stats & Trophies
